@@ -1,7 +1,7 @@
-const Index = () => {
+const Index = () => (
   <div>
     <p>Sample app using React and Next.js</p>
-  </div>;
-};
+  </div>
+);
 
 export default Index;
